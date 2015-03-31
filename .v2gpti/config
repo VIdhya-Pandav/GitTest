@@ -1,0 +1,18 @@
+
+[pivotal-tracker]
+project-id = 1084312
+
+[project]
+project-name = Test1
+project-manager = Nikish
+project-manager-email = nikish.parikh@v2solutions.com
+
+[toggl]
+project-id = 
+
+[platform]
+platform-name = ios
+
+[spec]
+spec-path = v2gpti.gemspec
+
